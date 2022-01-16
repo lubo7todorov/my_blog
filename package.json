@@ -2,7 +2,7 @@
   "name": "my_blog",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://lubo7todorov.github.io/my_blog",
+  "homepage": "https://lubotodorov.com/my_blog",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.1",
     "@testing-library/react": "^12.1.2",
@@ -43,5 +43,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "mini-css-extract-plugin": "2.4.5"
   }
 }
